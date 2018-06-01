@@ -14,7 +14,7 @@ This is my way to be a better programmer by trying to code by my own head, when 
 5. Next, check whether it is the correct number.
 6. If it is correct:
    - [ ] Display congratulations message.
-   - [ ] Stop the player from being able to enter more guesses (this            would mess the game up).
+   - [ ] Stop the player from being able to enter more guesses (thiswould mess the game up).
    - [ ] Display control allowing the player to restart the game.
 7. If it is wrong and the player has turns left:
    - [ ] Tell the player they are wrong.
