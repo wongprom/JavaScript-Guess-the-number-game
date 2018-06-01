@@ -5,7 +5,7 @@ This is my way to be a better programmer by trying to code by my own head, when 
 # Guess the number game
 ### We have selected a random number between 1 and 100. See if you can guess it in 10 turns or fewer. We'll tell you if your guess was too high or too low.
 
-# Stages
+# ToDo List
 
 1. - [x] Generate a random number between 1 and 100.
 2. - [x] Record the turn number the player is on. Start it on 1.
