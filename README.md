@@ -1,5 +1,5 @@
 # Getting Started
-This is my way to be a better programmer by trying to code by my own head, when I stuck I can take a peeking on the solution.
+This is my way to be a better programmer by trying to code by my own head, when I stuck I can take a short peek at the solution :smirk:
 ### [MDN web docs Guess the number game](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
 
 # Guess the number game
